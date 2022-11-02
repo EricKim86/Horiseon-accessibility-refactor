@@ -10,7 +10,7 @@ Accessing the project can be completed by opening the index.html file through a 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+<img src="https://github.com/EricKim86/Horiseon-accessibility-refactor/blob/main/assets/images/01-html-css-git-homework-demo.png?raw=true" alt="example picture">
 
 ## Credits
 
@@ -18,4 +18,4 @@ This project was accomplished utilizing information provided through the UPenn c
 
 ## How to Contribute
 
-If you would like to contribute to this or future projects, please contact me through Github.
+If you would like to contribute to this or future projects, please contact me at erickimek86@gmail.com.
