@@ -10,7 +10,7 @@ Accessing the project can be completed by opening the index.html file through a 
 
 ## Usage
 
-<img src="https://github.com/EricKim86/Horiseon-accessibility-refactor/blob/main/assets/images/01-html-css-git-homework-demo.png?raw=true" alt="example picture">
+![Example image of the main Horiseon site](https://github.com/EricKim86/Horiseon-accessibility-refactor/blob/main/assets/images/01-html-css-git-homework-demo.png?raw=true)
 
 ## Credits
 
