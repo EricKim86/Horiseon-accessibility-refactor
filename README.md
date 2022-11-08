@@ -6,7 +6,7 @@ The intention of this challenge is to demonstrate an understanding of semantic e
 
 ## Installation
 
-Accessing the project can be completed by opening the index.html file through a web browser.  Google Chome is recommended.
+Accessing the project can be completed by opening the index.html file through a web browser.  Google Chome is recommended.  The project can also be accessed by clicking: https://erickim86.github.io/Horiseon-accessibility-refactor/
 
 ## Usage
 
